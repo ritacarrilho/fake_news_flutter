@@ -5,11 +5,9 @@ void main() {
   runApp(const FakeNews());
 }
 
-// stateless(affichage) vs statefull(reactivité et dynamism)
 class FakeNews extends StatelessWidget {
   const FakeNews({super.key});
 
-  // affichage des composants
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

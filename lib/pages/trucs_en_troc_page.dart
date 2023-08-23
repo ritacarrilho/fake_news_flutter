@@ -10,6 +10,6 @@ class TrucsEnTrocsPage extends StatefulWidget {
 class _TrucsEnTrocsPageState extends State<TrucsEnTrocsPage> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const Text("Trucs en troc Page");
   }
 }

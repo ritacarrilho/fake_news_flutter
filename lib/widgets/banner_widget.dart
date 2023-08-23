@@ -30,7 +30,7 @@ class BannerWidget extends StatelessWidget {
                 Text(
                   bannerText.toUpperCase(),
                   style: TextStyle(
-                    color: grisLiger,
+                    color: grisLeger,
                     fontSize: 20,
                     fontStyle: FontStyle.normal,
                     fontWeight: FontWeight.bold,
@@ -40,7 +40,7 @@ class BannerWidget extends StatelessWidget {
                 Text(
                   bannerAuthor.toUpperCase(),
                   style: TextStyle(
-                    color: grisLiger,
+                    color: grisLeger,
                     fontSize: 20,
                     fontStyle: FontStyle.italic,
                     fontWeight: FontWeight.bold,
